@@ -29,7 +29,7 @@ Usage: java -jar Shooter.jar
 
 1. Install [`java`](https://www.java.com/en/download/)
 
-2. Download the `Shooter` jar from Releases tab.
+2. <a href="#Download">Download</a> the `Shooter` jar from Releases tab.
 
 
 **Tutorial**
@@ -51,11 +51,13 @@ Usage: java -jar Shooter.jar
 
 ## Download
 
-You can [download](https://github.com/the-jojo/Shooter/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/the-jojo/Shooter/releases/tag/v1.0) the latest jar along with the report explaining the design and implementation.
 
 
 **How to Contribute**
 ---
+
+This game was developed as a deliverable as part of the degree of BSc of Computer Science at the University St Andrews. As such, development has ceased, however, you are welcome to contribute to this project.
 
 1. Clone repo and create a new branch: `$ git checkout https://github.com/the-jojo/Shooter -b name_for_new_branch`.
 2. Make changes and test
@@ -64,7 +66,7 @@ You can [download](https://github.com/the-jojo/Shooter/releases/tag/v1.2.0) the 
 **Acknowledgements**
 ---
 
-+ [@shobrook](https://www.github.com/shobrook) for logo and UI design assistance.
-+ Base logo vector made by [Freepik](https://www.freepik.com/) from [Flaticon](www.flaticon.com).
-+ [drduh's macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) and [Jonathan Levin's MacOS Security Guide](http://newosxbook.com/files/moxii3/AppendixA.pdf) were incredibly helpful while I was building `stronghold`.
++ [Java Processing Library](https://processing.org/) for the graphic elements.
++ [University of St Andrews School of Computer Science](https://www.st-andrews.ac.uk/computer-science/) for their awesome BSc Computer Science program.
++ [CS4303 Video Games](https://portal.st-andrews.ac.uk/catalogue/View?code=CS4303&academic_year=2019%2F0) module for teaching the required skills and theory to develop this game.
 
